@@ -1,4 +1,4 @@
-DeployR Release Conventions    
+DeployR Release Conventions
 ===========================
 
 **@@ Work in Progress @@**
